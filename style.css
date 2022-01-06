@@ -165,6 +165,65 @@ p{
             margin-right: 25vh;
 
         }
+        .color-black{
+            color: black;
+
+        }
+        .color-rose{
+            color: rosybrown;
+        }
+        .last{
+            text-align: center;
+            padding-top: 70px;
+            padding-bottom: 50px;
+        }
+        .half-width-3{
+            width: 50%;
+            padding-top: 20px;
+            background-image: url(images/shapes/shape-8.png);
+            background-repeat: no-repeat;
+            background-position: left;
+            background-size:400px;
+
+
+        }
+        .half-width-3 img{
+            width: 70%;
+            margin-top: 200px;
+            margin-left: 200px;
+
+        }
+        .last-part{
+            display: flex;
+            border: 1px solid;
+
+
+        }
+        .up-level{
+            font-size: 10px;
+            padding-top: 2in;    
+        }
+        .para-gra{
+            padding-top: 0.5in;
+            padding-bottom: 0.5in;
+        }
+        .para-1{
+            padding-bottom: 1in;
+        }
+        .viol-all{
+            color: tomato;
+        }
+        footer{
+            text-align:center;
+            border: 1px solid;
+            background-color: rgb(19, 22, 19);
+        }
+        h3{
+            font-size: 50px;
+        }
+        .orange-color{
+            color: salmon;
+        }
 
     
     
