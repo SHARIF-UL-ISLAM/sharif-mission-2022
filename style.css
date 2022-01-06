@@ -55,4 +55,74 @@ p{
         border: none;
         border-radius: 15px;
     }
+    .color-violet{
+           color: rgb(77, 4, 77);
+           font-family: Georgia, 'Times New Roman', Times, serif;   
+         }
+    .color-yellow{
+        color: rgb(199, 199, 10);
+        font-family: Georgia, 'Times New Roman', Times, serif;    
+
+    }
+    .diff-modify{
+        text-align: center;
+        padding-top: 80px;
+        padding-bottom: 80px;
+        font-size: 80%;
+        
+        }
+        .text-modi{
+            font-size: 60px;
+            font-family: serif;
+            
+        }
+        .all-targets{
+            width: 400px;
+            background-color: rgb(255, 193, 193);
+            padding-bottom: 15px;
+            padding-top: 15px;
+            padding-left: 40px;
+            padding-right: 90px;
+            border-radius: 40px;
+            margin-left: 30px;
+            margin-right: 30px;
+
+        }
+        .all-targets-1{
+            width: 400px;
+            background-color: rgb(193, 237, 255);
+            padding-bottom: 15px;
+            padding-top: 15px;
+            padding-left: 40px;
+            padding-right: 90px;
+            border-radius: 40px;
+            margin-left: 30px;
+            margin-right: 30px;
+
+        }
+        .all-targets-2{
+            width: 400px;
+            background-color: rgb(255, 234, 193);
+            padding-bottom: 15px;
+            padding-top: 15px;
+            padding-left: 40px;
+            padding-right: 90px;
+            border-radius: 40px;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+        .div-pic img{ 
+            width: 60%
+        
+        }
+        .display-flex{
+            display: flex;
+            justify-content: space-around;
+            padding-left: 40px;
+            border: 0px auto;
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+    
+    
     
