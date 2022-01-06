@@ -1,0 +1,58 @@
+body{
+    font-family:'Poppins''Roboto Condensed', 'sans-serif' cursive;
+}
+h1{
+    font-family: cursive;
+    font-size: 500%;
+    height: 0.5em;
+}
+h2{
+    font-family:cursive;
+    font-size: 500%;
+    height: 20px;
+}
+.extra-line{
+    color: lawngreen;
+    height: 18ch;
+    padding-left: 3%;
+    padding-bottom: 7%;
+    border-left: 6px solid;
+    border-radius: 4px;
+
+}
+p{
+    color: rgb(56, 55, 55);
+    font-size: 200%;
+   font-family: 'Times New Roman', Times, serif;
+}
+.lightyellow-color{
+    color: rgb(255, 111, 85);
+}
+.dark-black{
+    color: rgb(30, 37, 30);
+    }
+    section{
+        display: flex;
+        
+    }
+    .half-width{
+        
+        width: 50%;
+        padding-left: 8%;
+        padding-top: 8%;
+    }
+    .half-width img{
+        width: 70%;
+       
+    }
+    .model-button{
+        text-decoration: none;
+        background-image: linear-gradient(60deg,rgb(247, 48, 13),rgb(247, 172, 35));
+        padding: 20px 60px;
+        color: wheat;
+        font-size: 120%;
+        font-weight: 700;
+        border: none;
+        border-radius: 15px;
+    }
+    
